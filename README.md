@@ -2,8 +2,7 @@
  
 *Aplicación funcional para sortear nombres aleatorios*
 
-## ✨ Demo en vivo
-🔗 [Ver demo en GitHub Pages](https://tusuario.github.io/repositorio/) *(Configura esto en tus GitHub repo settings > Pages)*
+
 
 ## 🧠 ¿Qué hace este proyecto?
 - Añade nombres a una lista interactiva  
